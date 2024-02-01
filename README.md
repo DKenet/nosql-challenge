@@ -1,2 +1,2 @@
 # nosql-challenge
-Module 12 Data Analytics Bootcamp
+The 12 assignment for Columbia's Data Analytics Bootcmap
